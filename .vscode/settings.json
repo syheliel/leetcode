@@ -3,6 +3,8 @@
         "vector": "cpp",
         "functional": "cpp",
         "string_view": "cpp",
-        "regex": "cpp"
+        "regex": "cpp",
+        "deque": "cpp",
+        "string": "cpp"
     }
 }
